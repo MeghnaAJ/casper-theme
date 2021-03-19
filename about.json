@@ -1,0 +1,9 @@
+{
+  "name": "casper-theme",
+  "about_url": "",
+  "license_url": "",
+  "authors": "Meghna",
+  "assets": {
+    "img": "assets/img.jpg"
+  }
+}
